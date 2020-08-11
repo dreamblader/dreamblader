@@ -2,8 +2,9 @@
 
 - :exclamation: I’m currently working on:
   - :computer: Android Apps with Kotlin integrating Oracle Commerce Cloud and VTEX services  
-  - :thought_balloon: Learning ReactJS + Node.js at the **Next Level Week Event**  
+  - :thought_balloon: Learning APS.NET  
   - :video_game: Mobile Game using GDScript with Godot Engine
+  - :pencil: Incrementing ReactApp from Next Level Week
   
   
 - :star: I’m looking to collaborate on any kind of project. I LOVE CHALLENGES!
@@ -24,6 +25,6 @@
 
 ### ===== GITHUB TODO LIST =====
 
-- [ ] Finish Next Level Week Challenge
+- [x] Finish Next Level Week Challenge
 - [ ] Finish DarkSoulsCalculator
 - [ ] Add READMES in older Repositories Projects
