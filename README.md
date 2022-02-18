@@ -2,7 +2,7 @@
 
 - :exclamation: I’m currently working on:
   - :computer: Android Apps with Kotlin
-  - :thought_balloon: Learning APS.NET  
+  - :thought_balloon: Learning Rust  
   - :video_game: Mobile Game using GDScript with Godot Engine + Card Game in React.JS using BoardGame.IO Framework
   - :pencil: Finishing my fiancée website in React.JS
   
@@ -27,5 +27,4 @@
 
 - [ ] Add my old C college projects and make them work in Windows/Linux
 - [ ] Finish the Beta Version of my Card Game Simulator in React.JS
-- [ ] Finish DarkSoulsCalculator
 - [ ] Add READMES in older Repositories Projects
