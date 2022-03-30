@@ -9,9 +9,6 @@
   
 - :star: I’m looking to collaborate on any kind of project. I LOVE CHALLENGES!
 
-- :tv: I also do Twitch Lives every weekday at 18 - 19:30 (GMT-3) developing my personal projects (the lives are totally in Portuguese for now)!
-  - [IM CURIOUS!](https://www.twitch.tv/bygm3)  
-
 - :e-mail: Contact Infos:
   - [LinkedIn](https://www.linkedin.com/in/carlos-gabriel-luz-monnazzi-340201156)
   - [Gmail](mailto:carlosgabrielmaster@gmail.com)
@@ -22,9 +19,3 @@
   - I love playing video games (a lot)
 
 #### PORTUGUESE ==> WIP
-
-### ===== GITHUB TODO LIST =====
-
-- [ ] Add my old C college projects and make them work in Windows/Linux
-- [ ] Finish the Beta Version of my Card Game Simulator in React.JS
-- [ ] Add READMES in older Repositories Projects
