@@ -11,6 +11,7 @@
 [![Digio](https://img.shields.io/badge/Digio-1f2d54?style=for-the-badge)](https://www.digio.com.br/)
 [![Next](https://img.shields.io/badge/Next-00ff60?style=for-the-badge)](https://next.me/)
 [![Bradesco](https://img.shields.io/badge/Bradesco-cc092f?style=for-the-badge)](https://banco.bradesco/html/classic/index.shtm)
+[![Banco Pan](https://img.shields.io/badge/Pan-00aafc?style=for-the-badge)](https://www.bancopan.com.br/)
 
 - Worked as a teacher for high-school/tech-school at [ETEC](https://www.cps.sp.gov.br/etec/) on the following subjects:
   - Algorithms and Object Orientation Paradigm
